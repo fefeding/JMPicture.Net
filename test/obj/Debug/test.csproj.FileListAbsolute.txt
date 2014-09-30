@@ -1,0 +1,12 @@
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\bin\Debug\test.exe
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\bin\Debug\test.pdb
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\bin\Debug\JMPicture.dll
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\bin\Debug\JMPicture.pdb
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.Properties.Resources.resources
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.csproj.GenerateResource.Cache
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.exe
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.pdb
+D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.Form1.resources
+E:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.exe
+E:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.pdb

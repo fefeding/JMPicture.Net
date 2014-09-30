@@ -1,0 +1,7 @@
+D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\bin\Debug\JMPicture.dll
+D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\bin\Debug\JMPicture.pdb
+D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.csproj.GenerateResource.Cache
+D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.dll
+D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.pdb
+D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.JMPicture.resources
+D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.csprojResolveAssemblyReference.cache
