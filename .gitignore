@@ -1,3 +1,6 @@
 .vs
-obj
-bin
+test/obj/
+test/bin/
+JMPicture/obj/
+JMPicture/bin/
+
