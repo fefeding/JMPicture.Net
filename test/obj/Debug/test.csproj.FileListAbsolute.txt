@@ -10,3 +10,16 @@ D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.pdb
 D:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.Form1.resources
 E:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.exe
 E:\微云网盘\273389528\项目\yorui\JMPicture\test\obj\Debug\test.pdb
+D:\code\github\JMPicture.Net\test\obj\Debug\test.exe
+D:\code\github\JMPicture.Net\test\obj\Debug\test.pdb
+D:\code\github\JMPicture.Net\test\obj\Debug\test.csproj.AssemblyReference.cache
+D:\code\github\JMPicture.Net\test\obj\Debug\test.Form1.resources
+D:\code\github\JMPicture.Net\test\obj\Debug\test.Properties.Resources.resources
+D:\code\github\JMPicture.Net\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\code\github\JMPicture.Net\test\bin\Debug\test.exe.config
+D:\code\github\JMPicture.Net\test\bin\Debug\test.exe
+D:\code\github\JMPicture.Net\test\bin\Debug\test.pdb
+D:\code\github\JMPicture.Net\test\bin\Debug\JMPicture.dll
+D:\code\github\JMPicture.Net\test\bin\Debug\JMPicture.pdb
+D:\code\github\JMPicture.Net\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\code\github\JMPicture.Net\test\obj\Debug\test.csproj.CopyComplete

@@ -5,3 +5,11 @@ D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.d
 D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.pdb
 D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.JMPicture.resources
 D:\微云网盘\273389528\项目\yorui\JMPicture\JMPicture\obj\Debug\JMPicture.csprojResolveAssemblyReference.cache
+D:\code\github\JMPicture.Net\JMPicture\obj\Debug\JMPicture.dll
+D:\code\github\JMPicture.Net\JMPicture\obj\Debug\JMPicture.pdb
+D:\code\github\JMPicture.Net\JMPicture\bin\Debug\JMPicture.dll
+D:\code\github\JMPicture.Net\JMPicture\bin\Debug\JMPicture.pdb
+D:\code\github\JMPicture.Net\JMPicture\obj\Debug\JMPicture.csproj.AssemblyReference.cache
+D:\code\github\JMPicture.Net\JMPicture\obj\Debug\JMPicture.JMPicture.resources
+D:\code\github\JMPicture.Net\JMPicture\obj\Debug\JMPicture.csproj.GenerateResource.cache
+D:\code\github\JMPicture.Net\JMPicture\obj\Debug\JMPicture.csproj.CoreCompileInputs.cache
